@@ -1,3 +1,6 @@
+#!/usr/bin/python
+'''Created by I3L4CK-H4CK3I2'''
+
 import os
 import sys
 import socket
